@@ -1,0 +1,58 @@
+export const certifications = [
+  {
+    title: "Pandas for Data Analysis",
+    issuer: "Kaggle",
+    year: "2026",
+    icon: "📊",
+    color: "from-cyan-500 to-blue-500",
+  },
+  {
+    title: "Python Programming",
+    issuer: "Kaggle",
+    year: "2026",
+    icon: "🐍",
+    color: "from-green-500 to-emerald-500",
+  },
+  {
+    title: "Artificial Intelligence Fundamentals",
+    issuer: "IBM SkillsBuild",
+    year: "2025",
+    icon: "🤖",
+    color: "from-blue-500 to-indigo-500",
+  },
+  {
+    title: "AWS Cloud Practitioner Essentials",
+    issuer: "Amazon Web Services",
+    year: "2025",
+    icon: "☁️",
+    color: "from-amber-500 to-orange-500",
+  },
+  {
+    title: "Developing Front-End Apps with React",
+    issuer: "SkillUp",
+    year: "2025",
+    icon: "⚛️",
+    color: "from-sky-500 to-blue-500",
+  },
+  {
+    title: "Cyber Security Technologies",
+    issuer: "Illinois Institute of Technology",
+    year: "2025",
+    icon: "🔒",
+    color: "from-red-500 to-rose-500",
+  },
+  {
+    title: "Introduction to Microsoft Azure",
+    issuer: "Microsoft",
+    year: "2025",
+    icon: "☁️",
+    color: "from-blue-600 to-indigo-600",
+  },
+  {
+    title: "Innovating with Google Cloud AI",
+    issuer: "Google Cloud",
+    year: "2025",
+    icon: "🧠",
+    color: "from-yellow-500 to-amber-500",
+  },
+];
